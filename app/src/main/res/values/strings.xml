@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="action_settings">Settings</string>
+    <string name="forcast">Today - Sunny - 16/18</string>
+</resources>
